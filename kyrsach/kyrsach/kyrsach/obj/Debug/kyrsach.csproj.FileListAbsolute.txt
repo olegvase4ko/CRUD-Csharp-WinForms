@@ -1,0 +1,24 @@
+C:\Users\vasec\Desktop\заводКурсач\kyrsach\kyrsach\kyrsach\bin\Debug\factoryDB.mdf
+C:\Users\vasec\Desktop\заводКурсач\kyrsach\kyrsach\kyrsach\bin\Debug\factoryDB_log.ldf
+C:\Users\vasec\Desktop\заводКурсач\kyrsach\kyrsach\kyrsach\bin\Debug\kyrsach.exe.config
+C:\Users\vasec\Desktop\заводКурсач\kyrsach\kyrsach\kyrsach\bin\Debug\kyrsach.exe
+C:\Users\vasec\Desktop\заводКурсач\kyrsach\kyrsach\kyrsach\bin\Debug\kyrsach.pdb
+C:\Users\vasec\Desktop\заводКурсач\kyrsach\kyrsach\kyrsach\obj\Debug\kyrsach.csprojAssemblyReference.cache
+C:\Users\vasec\Desktop\заводКурсач\kyrsach\kyrsach\kyrsach\obj\Debug\kyrsach.Form1.resources
+C:\Users\vasec\Desktop\заводКурсач\kyrsach\kyrsach\kyrsach\obj\Debug\kyrsach.Properties.Resources.resources
+C:\Users\vasec\Desktop\заводКурсач\kyrsach\kyrsach\kyrsach\obj\Debug\kyrsach.csproj.GenerateResource.cache
+C:\Users\vasec\Desktop\заводКурсач\kyrsach\kyrsach\kyrsach\obj\Debug\kyrsach.csproj.CoreCompileInputs.cache
+C:\Users\vasec\Desktop\заводКурсач\kyrsach\kyrsach\kyrsach\obj\Debug\kyrsach.exe
+C:\Users\vasec\Desktop\заводКурсач\kyrsach\kyrsach\kyrsach\obj\Debug\kyrsach.pdb
+C:\Users\vasec\Desktop\for github\CRUD-C#\kyrsach\kyrsach\kyrsach\bin\Debug\factoryDB.mdf
+C:\Users\vasec\Desktop\for github\CRUD-C#\kyrsach\kyrsach\kyrsach\bin\Debug\factoryDB_log.ldf
+C:\Users\vasec\Desktop\for github\CRUD-C#\kyrsach\kyrsach\kyrsach\bin\Debug\kyrsach.exe.config
+C:\Users\vasec\Desktop\for github\CRUD-C#\kyrsach\kyrsach\kyrsach\bin\Debug\kyrsach.exe
+C:\Users\vasec\Desktop\for github\CRUD-C#\kyrsach\kyrsach\kyrsach\bin\Debug\kyrsach.pdb
+C:\Users\vasec\Desktop\for github\CRUD-C#\kyrsach\kyrsach\kyrsach\obj\Debug\kyrsach.csprojAssemblyReference.cache
+C:\Users\vasec\Desktop\for github\CRUD-C#\kyrsach\kyrsach\kyrsach\obj\Debug\kyrsach.Form1.resources
+C:\Users\vasec\Desktop\for github\CRUD-C#\kyrsach\kyrsach\kyrsach\obj\Debug\kyrsach.Properties.Resources.resources
+C:\Users\vasec\Desktop\for github\CRUD-C#\kyrsach\kyrsach\kyrsach\obj\Debug\kyrsach.csproj.GenerateResource.cache
+C:\Users\vasec\Desktop\for github\CRUD-C#\kyrsach\kyrsach\kyrsach\obj\Debug\kyrsach.csproj.CoreCompileInputs.cache
+C:\Users\vasec\Desktop\for github\CRUD-C#\kyrsach\kyrsach\kyrsach\obj\Debug\kyrsach.exe
+C:\Users\vasec\Desktop\for github\CRUD-C#\kyrsach\kyrsach\kyrsach\obj\Debug\kyrsach.pdb
